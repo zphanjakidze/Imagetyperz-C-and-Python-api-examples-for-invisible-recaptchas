@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{9E64C148-5BB2-424A-B07E-6505C20D61F6}|Default">
+  <MonoDevelop.Ide.ItemProperties.recaptcha__automation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="recaptcha_automation/Program.cs">
+    <Files>
+      <File FileName="recaptcha_automation/Program.cs" Line="17" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
